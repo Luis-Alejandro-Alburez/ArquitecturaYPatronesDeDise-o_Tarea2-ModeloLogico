@@ -1,0 +1,1 @@
+# ArquitecturaYPatronesDeDise-o_Tarea2-ModeloLogico
